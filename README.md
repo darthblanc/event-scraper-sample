@@ -1,2 +1,2 @@
-# event-scraper-sample
-This a sample of an event scraper I wrote using the Python programming language and Firebase.
+# udallas-event-scraper
+A web-scraper for University of Dallas Events
